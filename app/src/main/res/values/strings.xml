@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bound Services</string>
+    <string name="service_desc">This service will generate random numbers</string>
+</resources>
